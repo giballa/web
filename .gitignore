@@ -1,0 +1,13 @@
+# Windows image file chaches
+thumbs.db
+
+# folder config file
+desktop.ini
+
+# Recycle bin used on file shares
+$recycle.bin/
+
+# others
+*.txt
+*.zip
+*.log
